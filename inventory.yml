@@ -1,0 +1,13 @@
+[web]
+firsthost
+
+#plugin: netbox.netbox.nb_inventory
+#validate_certs: False
+#config_context: False
+#device_query_filters:
+        #  - status: 'active'
+    #cache: yes
+#cache_plugin: ansible.builtint.jsonfile
+#cache_connection: /tmp/netbox_ansible_inventry
+#cache_timeout: 5000
+#cache_prefix: netbox_inventory
